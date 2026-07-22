@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="90" viewBox="0 0 1280 90" role="img" aria-labelledby="title">
+  <title id="title">Crafted with curiosity</title>
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#8b5cf6" stop-opacity="0"/>
+      <stop offset=".25" stop-color="#8b5cf6"/>
+      <stop offset=".75" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M80 28h1120" stroke="url(#line)"/>
+  <circle cx="640" cy="28" r="4" fill="#8b5cf6"/>
+  <text x="640" y="66" text-anchor="middle" fill="#71717a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" letter-spacing="3">CRAFTED WITH CURIOSITY</text>
+</svg>
